@@ -1,0 +1,29 @@
+.footer-div{
+    display: grid;
+    justify-items: center;
+    row-gap: 18px;
+    color: #5c5e62;
+}
+
+.footer-para-div{
+    text-align: center;
+    font-size: 13px;
+    width: 37%;
+    
+}
+
+.footer-bottom{
+    margin-top: 50px;
+    display: grid;
+    font-size: 15px;
+    grid-template-columns: 81px 100px 93px 45px 36px 75px 80px;
+    justify-content: center;
+    column-gap: 12px;
+    color: #5c5e62;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+ .underline{
+    text-decoration: underline;
+    font-weight: 600;
+ }
